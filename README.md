@@ -1,2 +1,1 @@
-# Greetings-
-Its good to your interact with your peers.
+Good day. It was nice interacting with you.
